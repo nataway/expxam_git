@@ -10,3 +10,6 @@ for i in range(10):
     print_somting(i)
 
 print("them tu nguoi thu 2")
+
+
+p()
