@@ -1,2 +1,2 @@
-def print_somting():
-    print("toi la chi")
+def print_somting(i: int):
+    print("toi la chi", i)
